@@ -1,0 +1,10 @@
+body{
+background-color: beige;
+color: black;
+transition: 0,3s;
+}
+
+.dark{
+ background-color: black;
+color: white;
+}
